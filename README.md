@@ -60,8 +60,8 @@ Open in Microsoft Excel.
 
 Explore the dashboard and pivot tables to interact with different filters and visuals.
 
-📷 Preview
+📷 Dashboard Preview
+
 
 🙌 Acknowledgments
 Thanks to all who supported this project. Inspired by real-world retail analysis scenarios.
-
