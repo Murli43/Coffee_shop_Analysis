@@ -60,7 +60,7 @@ Open in Microsoft Excel.
 
 Explore the dashboard and pivot tables to interact with different filters and visuals.
 
-📷 Dashboard Preview (https://github.com/Murli43/Coffee_shop_Analysis/blob/main/Coffee_shop.jpg)
+📷 [Dashboard Preview](https://github.com/Murli43/Coffee_shop_Analysis/blob/main/Coffee_shop.jpg?raw=true)
 
 
 🙌 Acknowledgments
