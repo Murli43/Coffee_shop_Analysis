@@ -17,6 +17,9 @@ Coffee shop sales.xlsx – Contains the raw data and pivot tables used for analy
 
 Coffee_shop.jpg – Snapshot of the Excel dashboard.
 
+📷 Coffee Shop Dashboard
+
+
 🔍 Key Insights
 ⏰ Sales by Time of Day
 Highest quantity of orders between 8 AM to 10 AM, indicating morning coffee rush.
@@ -59,9 +62,6 @@ Download the Coffee shop sales.xlsx file.
 Open in Microsoft Excel.
 
 Explore the dashboard and pivot tables to interact with different filters and visuals.
-
-📷 [Dashboard Preview](https://github.com/Murli43/Coffee_shop_Analysis/blob/main/Coffee_shop.jpg?raw=true)
-
 
 🙌 Acknowledgments
 Thanks to all who supported this project. Inspired by real-world retail analysis scenarios.
